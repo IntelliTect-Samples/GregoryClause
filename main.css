@@ -1,17 +1,12 @@
 
-body {
+body, html {
 background-image: url("https://static1.squarespace.com/static/52fbd030e4b0e8aa92de3640/t/5645fc99e4b0f4bd255e4d8f/1447427226423/");
+background-size: auto 100%;
 background-repeat: no-repeat;
-
+background-position: center;
+height: 100%;
+background-color: red;
 }
-
-
-
-
-
-
-
-
 
 
 header {
